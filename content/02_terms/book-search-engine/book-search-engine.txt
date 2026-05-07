@@ -8,7 +8,7 @@ Date: 01 February 2026
 
 Text:
 
-A service provided by (link: /terms/newton-os text: Newton OS) that provides a means to search the content of a (link: /terms/newton-book text: Newton Book) using the (link: /terms/find-button text: Find button).
+A service provided by (link: /terms/newton-os text: Newton OS) that provides a way to search the content of a (link: /terms/newton-book text: Newton Book) using the (link: /terms/find-button text: Find button).
 
 Also referred to as (link: /terms/book-reader-search-engine text: Book Reader Search Engine) and (link: /terms/search-engine text: Search Engine).
 
