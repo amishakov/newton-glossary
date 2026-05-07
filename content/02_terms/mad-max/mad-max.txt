@@ -1,0 +1,36 @@
+Title: MAD Max
+
+----
+
+Date: 07 May 2026
+
+----
+
+Text:
+
+An audio player (link: /terms/application text: application) for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/eckhart-koppen text: Eckhart Köppen). The software utilizes (link: /terms/mad-newton text: MAD Newton) a port of the [MAD](https://www.underbit.com/products/mad/) (MPEG Audio Decoder). MAD Max is capable of playing MP3 files, as well as streams from services such as [Icecast](https://en.wikipedia.org/wiki/Icecast) and [Shoutcast](https://en.wikipedia.org/wiki/Shoutcast).
+
+----
+
+Resource:
+
+- [40hz: MAD Newton](https://40hz.org/Pages/newton/packages/madnewton/)
+- [Underbit Technologies: MAD: MPEG Audio Decoder](https://www.underbit.com/products/mad/)
+
+----
+
+Related:
+
+- /terms/launchpls
+- /terms/mad-newton
+- /terms/newtcast
+- /terms/newtpod
+- /terms/newttunes
+- /terms/radiofreenewton
+- /terms/sound
+
+----
+
+Source:
+
+- /sources/eckhart-koppen

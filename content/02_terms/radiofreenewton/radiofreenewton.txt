@@ -1,0 +1,25 @@
+Title: radiofreenewton
+
+----
+
+Date: 07 May 2026
+
+----
+
+Text:
+
+A website instigated by [Jesse Garnier](https://www.stonehopper.com/) that provided an MP3 stream designed for playback on a Newton device using Eckhart Köppen’s (link: /terms/mad-max text: MAD Max) application. The stream consisted of a playlist containing approximately 4,000 songs.
+
+----
+
+Resource:
+
+- [radiofreenewton Website](https://www.stonehopper.com/radio/)
+
+----
+
+Related:
+
+- /terms/launchpls
+- /terms/mad-max
+- /terms/mad-newton

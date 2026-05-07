@@ -27,6 +27,8 @@ Resource:
 Related:
 
 - /terms/headphone-jack
+- /terms/mad-max
+- /terms/mad-newton
 - /terms/newton-interconnect
 - /terms/newtpod
 - /terms/newttunes

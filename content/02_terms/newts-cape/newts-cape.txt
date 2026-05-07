@@ -25,6 +25,7 @@ Related:
 - /terms/courier
 - /terms/hemlock
 - /terms/http
+- /terms/launchpls
 - /terms/nethopper
 - /terms/newton-book
 - /terms/newton-internet-enabler

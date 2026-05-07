@@ -1,0 +1,35 @@
+Title: LaunchPLS
+
+----
+
+Date: 07 May 2026
+
+----
+
+Text:
+
+A plugin for the (link: /terms/newts-cape text: Newt’s Cape) web browser that provides a way to save an MP3 stream from a website directly to the (link: /terms/mad-max text: MAD Max) audio player.
+
+----
+
+Resource:
+
+- [Chuma: LaunchPLS for NOS 2.x](https://web.archive.org/web/20050206184205/http://www.chuma.org/code/newton/launchpls/)
+- [Chuma: Newt’s Cape Plugins](http://old.chuma.org/newton/newts-cape-plugins/)
+- [40hz: MAD Newton](https://40hz.org/Pages/newton/packages/madnewton/)
+- [CommuniCrossings: Newt’s Cape Product Information](https://communicrossings.com/html/newton/newtscape.htm)
+
+----
+
+Related:
+
+- /terms/mad-max
+- /terms/mad-newton
+- /terms/newts-cape
+- /terms/radiofreenewton
+
+----
+
+Source:
+
+- /sources/victor-rehorst

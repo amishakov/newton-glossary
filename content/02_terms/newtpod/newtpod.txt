@@ -34,6 +34,8 @@ Related:
 
 - /terms/dongle
 - /terms/headphone-jack
+- /terms/mad-max
+- /terms/mad-newton
 - /terms/newtcast
 - /terms/newton-interconnect
 - /terms/newtpod-ap

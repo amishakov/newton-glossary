@@ -27,6 +27,8 @@ Related:
 - /terms/channel
 - /terms/codec
 - /terms/decibel
+- /terms/mad-max
+- /terms/mad-newton
 - /terms/newtcast
 - /terms/newtpod
 - /terms/newttunes

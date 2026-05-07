@@ -27,6 +27,8 @@ Related:
 
 - /terms/headphone-jack
 - /terms/ipodcontrol
+- /terms/mad-max
+- /terms/mad-newton
 - /terms/newtcast
 - /terms/newton-interconnect
 - /terms/newtpod

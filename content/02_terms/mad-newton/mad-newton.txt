@@ -1,0 +1,36 @@
+Title: MAD Newton
+
+----
+
+Date: 07 May 2026
+
+----
+
+Text:
+
+A version of Robert Leslie’s [MAD](https://www.underbit.com/products/mad/) audio decoder that was ported to (link: /terms/newton-os text: Newton OS) by (link: /sources/eckhart-koppen text: Eckhart Köppen). MAD Newton is utilized by (link: /terms/mad-max text: MAD Max), an (link: /terms/application text: application) that allows playback of MP3 audio on a Newton device.
+
+----
+
+Resource:
+
+- [40hz: MAD Newton](https://40hz.org/Pages/newton/packages/madnewton/)
+- [Underbit Technologies: MAD: MPEG Audio Decoder](https://www.underbit.com/products/mad/)
+
+----
+
+Related:
+
+- /terms/launchpls
+- /terms/mad-max
+- /terms/newtcast
+- /terms/newtpod
+- /terms/newttunes
+- /terms/radiofreenewton
+- /terms/sound
+
+----
+
+Source:
+
+- /sources/eckhart-koppen
