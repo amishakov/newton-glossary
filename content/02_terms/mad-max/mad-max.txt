@@ -10,6 +10,8 @@ Text:
 
 An audio player (link: /terms/application text: application) for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/eckhart-koppen text: Eckhart Köppen). The software utilizes (link: /terms/mad-newton text: MAD Newton) a port of the [MAD](https://www.underbit.com/products/mad/) (MPEG Audio Decoder). MAD Max is capable of playing MP3 files, as well as streams from services such as [Icecast](https://en.wikipedia.org/wiki/Icecast) and [Shoutcast](https://en.wikipedia.org/wiki/Shoutcast).
 
+(image: /assets/images/mad-max-2x.gif alt: Screenshot of the Mad Max application width: 256)
+
 ----
 
 Resource:
