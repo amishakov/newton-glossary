@@ -10,9 +10,9 @@ Text:
 
 A Tetris-like game for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/dejavu text: DejaVu Software).
 
-(image: /assets/images/newt-tris-2x.gif alt: Screenshot of Newt ‘Tris width: 242)
+Also referred to as (link: /terms/newtris text: Newtris).
 
-Alos referred to as (link: /terms/newtris text: Newtris).
+(image: /assets/images/newt-tris-2x.gif alt: Screenshot of Newt ‘Tris width: 322)
 
 ----
 
