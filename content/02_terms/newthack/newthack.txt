@@ -29,6 +29,7 @@ Related:
 - /terms/deep-space-newt
 - /terms/jig
 - /terms/motile
+- /terms/newt-tris
 - /terms/newtendo
 - /terms/yazi
 

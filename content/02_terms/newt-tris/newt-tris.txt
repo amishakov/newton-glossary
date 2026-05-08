@@ -1,0 +1,41 @@
+Title: Newt ‘Tris
+
+----
+
+Date: 08 May 2026
+
+----
+
+Text:
+
+A Tetris-like game for (link: /terms/newton-os text: Newton OS) developed by (link: /sources/dejavu text: DejaVu Software).
+
+(image: /assets/images/newt-tris-2x.gif alt: Screenshot of Newt ‘Tris width: 242)
+
+Alos referred to as (link: /terms/newtris text: Newtris).
+
+----
+
+Resource:
+
+- [DejaVu: Newt ‘Tris Product Information](http://web.archive.org/web/20041023081159/http://www.dejavusoftware.com/newtris/)
+
+----
+
+Related:
+
+- /terms/chiral
+- /terms/deep-green
+- /terms/deep-space-newt
+- /terms/jig
+- /terms/motile
+- /terms/newtendo
+- /terms/newthack
+- /terms/newtris
+- /terms/yazi
+
+----
+
+Source:
+
+- /sources/dejavu

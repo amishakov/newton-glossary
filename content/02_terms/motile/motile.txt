@@ -31,6 +31,7 @@ Related:
 - /terms/deep-green
 - /terms/deep-space-newt
 - /terms/jig
+- /terms/newt-tris
 - /terms/newtendo
 - /terms/newthack
 - /terms/starcore

@@ -19,6 +19,7 @@ Related:
 - /terms/deep-space-newt
 - /terms/jigsaw-strategy-game
 - /terms/motile
+- /terms/newt-tris
 - /terms/newtendo
 - /terms/newthack
 - /terms/starcore

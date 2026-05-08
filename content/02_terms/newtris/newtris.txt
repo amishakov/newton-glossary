@@ -1,0 +1,17 @@
+Title: Newtris
+
+----
+
+Date: 08 May 2026
+
+----
+
+Text:
+
+See: (link: /terms/newt-tris text: Newt ‘Tris)
+
+----
+
+Source:
+
+- /sources/dejavu

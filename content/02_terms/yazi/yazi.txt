@@ -36,6 +36,7 @@ Related:
 - /terms/jig
 - /terms/lisp
 - /terms/motile
+- /terms/newt-tris
 - /terms/newthack
 - /terms/newtendo
 
