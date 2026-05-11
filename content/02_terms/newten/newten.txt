@@ -33,7 +33,10 @@ Related:
 - /terms/newton-connection-pro-kit
 - /terms/newton-connection-utilities
 - /terms/newton-package-installer
+- /terms/package
+- /terms/package-file
 - /terms/package-installer
+- /terms/pda-package-downloader
 - /terms/unixnpi
 
 ----

@@ -26,5 +26,8 @@ Related:
 - /terms/newton-connection-pro-kit
 - /terms/newton-connection-utilities
 - /terms/npi
+- /terms/package
+- /terms/package-file
 - /terms/package-installer
+- /terms/pda-package-downloader
 - /terms/unixnpi

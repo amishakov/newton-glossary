@@ -25,5 +25,6 @@ Related:
 - /terms/newtonpkg
 - /terms/package
 - /terms/package-file
+- /terms/pda-package-downloader
 - /terms/pkg
 - /terms/unixnpi

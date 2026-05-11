@@ -1,0 +1,18 @@
+Title: Lunatech Research
+
+----
+
+Date: 10 May 2026
+
+----
+
+Text:
+
+An international consulting, software development, and research company founded in 1993. With offices located in The Netherlands and the United Kingdom, LunaTech is arguably best known for (link: /terms/lunasuite text: LunaSuite), a set of modular internet utilities for (link: /terms/newton-os text: Newton OS).
+
+----
+
+Resource:
+
+- [LunaTech Research Website](https://web.archive.org/web/19980214101404/http://www2.lunatech.com/)
+- [LunaTech Research Newton Website](https://web.archive.org/web/19970415225043/http://newton.lunatech.com/)
