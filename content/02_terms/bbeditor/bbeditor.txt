@@ -12,7 +12,7 @@ A system enhancement developed by (link: /sources/byte-size text: Byte-Size Soft
 
 When activated, BBEditor overlay a portion of the (link: /terms/button-bar text: button bar), not the (link: /terms/input-area text: input area).
 
-(image: /assets/images/bbeditor-2x.gif alt: Screenshot of the BBEditor overlaying the button bar on a MessagePad 2000 width: 322)
+(image: /assets/images/bbeditor-2x.gif alt: Screenshot of BBEditor overlaying the button bar on a MessagePad 2000 width: 322)
 
 ----
 

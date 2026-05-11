@@ -8,11 +8,13 @@ Date: 11 May 2026
 
 Text:
 
-An (link: /terms/application text: application) developed by (link: /sources/lunatech text: Lunatech Research) that provided a way to easily download (link: /terms/package text: packages) from a MacOS computer to a Newton device using drag and drop.
+An (link: /terms/application text: application) developed by (link: /sources/lunatech text: Lunatech Research) that provided a way to easily download (link: /terms/package text: packages) from a Mac OS computer to a Newton device using drag and drop.
+
+(image: /assets/images/pda-package-downloader-2x.gif alt: Screenshot of the PDA Package Downloader window width: 276)
 
 Also referred to as (link: /terms/PPD text: PPD).
 
-PDA Package Downloader was the successor to Lunatech’s (link: /terms/newton-package-downloader text: Newton Package Downloader) (NPD) utility.
+PDA Package Downloader was the successor to the (link: /terms/newton-package-downloader text: Newton Package Downloader) utility. Also referred to as (link: /terms/npd text: NPD), it had a similar, but more limited, set of features.
 
 ----
 
