@@ -33,6 +33,9 @@ Related:
 - /terms/newton-media-system
 - /terms/newton-slide-show
 - /terms/nmp
+- /terms/palmedia-image-transfer
+- /terms/palmedia-media-transfer
+- /terms/palmedia-player
 
 ----
 

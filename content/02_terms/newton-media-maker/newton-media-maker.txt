@@ -29,6 +29,9 @@ Related:
 - /terms/newton-movie-player
 - /terms/newton-slide-show
 - /terms/nmm
+- /terms/palmedia-image-transfer
+- /terms/palmedia-media-transfer
+- /terms/palmedia-player
 
 ----
 

@@ -1,0 +1,48 @@
+Title: PALMEDIA Image Transfer
+
+----
+
+Date: 14 May 2026
+
+----
+
+Text:
+
+A [HyperCard](https://hypercard.org/) stack developed by (link: /sources/lee-moon text: Lee Moon) that uploaded images to a Newton device using Steve Weyer’s (link: /terms/sloup text: Sloup) utility.
+
+The images could then be viewed using the (link: /terms/palmedia-player text: PALMEDIA Player) application.
+
+(image: /assets/images/palmedia-image-transfer-2x.gif alt: Screenshot of the PALMEDIA Image Transfer stack width: 461)
+
+A later version of the stack called (link: /terms/palmedia-media-transfer text: PALMEDIA Media Transfer) supported additional media types, including sound and movie files.
+
+Also referred to as (link: /terms/pit text: PIT).
+
+----
+
+Resource:
+
+- [UNNA: PALMEDIA Player 2.1](http://www.unna.org/view.php?/utilites/graphics-movies/PALMEDIAPlayer2.1)
+- [UNNA: PALMEDIA Player 2000 1.0](http://www.unna.org/view.php?/utilites/graphics-movies/PALMEDIAPlayer2000_1.0)
+- [UNNA: PALMEDIA Image Transfer 1.3](http://www.unna.org/view.php?/macos/PALMEDIAImageTransfer1.3)
+- [UNNA: PALMEDIA Media Transfer 2.3 Beta](http://www.unna.org/view.php?/macos/PALMEDIATransfer2.3beta)
+
+----
+
+Related:
+
+- /terms/newton-audio-player
+- /terms/newton-media-maker
+- /terms/newton-media-system
+- /terms/newton-movie-player
+- /terms/newton-slide-show
+- /terms/palmedia-media-transfer
+- /terms/palmedia-player
+- /terms/pit
+- /terms/sloup
+
+----
+
+Source:
+
+- /sources/lee-moon

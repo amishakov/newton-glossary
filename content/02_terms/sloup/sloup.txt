@@ -26,6 +26,8 @@ Related:
 - /terms/bee-one
 - /terms/newton-data-viewer
 - /terms/notable
+- /terms/palmedia-image-transfer
+- /terms/palmedia-media-transfer
 - /terms/revelar-connection-utility
 - /terms/slurpee
 - /terms/soup

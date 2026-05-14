@@ -1,0 +1,49 @@
+Title: PALMEDIA Player
+
+----
+
+Date: 14 May 2026
+
+----
+
+Text:
+
+An (link: /terms/application text: application) developed by (link: /sources/lee-moon text: Lee Moon) that allowed viewing of images, animations, and movies on a Newton device. The software extended the features found in Moon’s earlier (link: /terms/newton-slide-show text: Newton Slide Show) and (link: /terms/newton-movie-player text: Newton Movie Player) applications.
+
+Using a [HyperCard](https://hypercard.org/) stack called (link: /terms/palmedia-image-transfer text: PALMEDIA Image Transfer) (later renamed to (link: /terms/palmedia-media-transfer text: PALMEDIA Media Transfer)) you could easily upload files from a Mac OS computer to a Newton device for use with PALMEDIA Player.
+
+A version of the player called (link: /terms/palmedia-player-2000 text: PALMEDIA Player 2000) was released specifically for (link: /terms/newton-os text: Newton OS) 2.1 devices.
+
+Also referred to as (link: /terms/pmp text: PMP), (link: /terms/pmplay text: PMPlay), (link: /terms/pmplayer text: PMPlayer), and (link: /terms/player2k text: Player2K).
+
+----
+
+Resource:
+
+- [UNNA: PALMEDIA Player 2.1](http://www.unna.org/view.php?/utilites/graphics-movies/PALMEDIAPlayer2.1)
+- [UNNA: PALMEDIA Player 2000 1.0](http://www.unna.org/view.php?/utilites/graphics-movies/PALMEDIAPlayer2000_1.0)
+- [UNNA: PALMEDIA Image Transfer 1.3](http://www.unna.org/view.php?/macos/PALMEDIAImageTransfer1.3)
+- [UNNA: PALMEDIA Media Transfer 2.3 Beta](http://www.unna.org/view.php?/macos/PALMEDIATransfer2.3beta)
+
+----
+
+Related:
+
+- /terms/newton-audio-player
+- /terms/newton-media-maker
+- /terms/newton-media-system
+- /terms/newton-movie-player
+- /terms/newton-slide-show
+- /terms/palmedia-image-transfer
+- /terms/palmedia-media-transfer
+- /terms/palmedia-player-2000
+- /terms/player2k
+- /terms/pmp
+- /terms/pmplay
+- /terms/pmplayer
+
+----
+
+Source:
+
+- /sources/lee-moon
