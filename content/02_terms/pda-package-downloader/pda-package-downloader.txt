@@ -12,7 +12,7 @@ An (link: /terms/application text: application) developed by (link: /sources/lun
 
 (image: /assets/images/pda-package-downloader-2x.gif alt: Screenshot of the PDA Package Downloader window width: 276)
 
-Also referred to as (link: /terms/PPD text: PPD).
+Also referred to as (link: /terms/ppd text: PPD).
 
 PDA Package Downloader was the successor to the (link: /terms/newton-package-downloader text: Newton Package Downloader) utility. Also referred to as (link: /terms/npd text: NPD), it had a similar, but more limited, set of features.
 
