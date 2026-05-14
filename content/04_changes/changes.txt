@@ -18,17 +18,22 @@ Recently added terms and sources are listed in the (link: /latest text: latest a
 
 Incremental changes are listed in the [code commit history](https://github.com/splorp/newton-glossary/commits/master).
 
-### _$r
+### 5.2.0
 
-Terms: _$t
-Sources: _$s
+14 May 2026
+
+Terms: 2,164
+Sources: 234
 
 #### Summary of changes:
 
-+ Added 13 new terms
-+ Added 1 new source
++ Added 71 new terms
++ Added 6 new sources
 + Updated and expanded dozens of existing entries
-+ Implemented [Kirby Link Scanner](https://github.com/scottboms/kirby-link-scanner) plugin 
++ Implemented [Kirby Link Scanner](https://github.com/scottboms/kirby-link-scanner) plugin
++ Updated [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) to version [1.46](https://github.com/ai-robots-txt/ai.robots.txt/releases/tag/v1.46)
++ Updated [Kirby Redirects](https://github.com/bnomei/kirby3-redirects) plugin to version [5.4.0](https://github.com/bnomei/kirby3-redirects/releases/tag/v5.4.0)
++ Updated [Kirby](https://getkirby.com/) to version [5.4.0](https://github.com/getkirby/kirby/releases/tag/5.4.0)
 
 ### 5.1.2
 
