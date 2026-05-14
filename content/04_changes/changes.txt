@@ -418,7 +418,7 @@ Sources: 136
 
 + Added 1 new term
 + Updated and expanded several existing entries
-+ Added a <a href="http://microformats.org/wiki/rel-me">rel="me"</a> link to the page meta for <a href="https://mastodon.social/@splorp">Mastodon</a> profile verification
++ Added a [rel="me"](http://microformats.org/wiki/rel-me) link to the page meta for [Mastodon](https://mastodon.social/@splorp) profile verification
 + Updated [Kirby](https://getkirby.com/) to version [3.8.2](https://github.com/getkirby/kirby/releases/tag/3.8.2)
 + Updated [Alphabetise](https://github.com/splorp/kirby-alphabetise) plugin to version [0.1.2](https://github.com/splorp/kirby-alphabetise/releases/tag/0.1.2)
 + Updated [Cachebuster](https://github.com/schnti/kirby3-cachebuster) plugin to version [1.0.3](https://github.com/schnti/kirby3-cachebuster/releases/tag/1.0.3)
@@ -488,11 +488,11 @@ Sources: 135
 
 + Updated [Kirby](https://getkirby.com/) to version [3.6.5](https://github.com/getkirby/kirby/releases/tag/3.6.5)
 + Updated [Alphabetise](https://github.com/splorp/kirby-alphabetise) plugin to version [0.1.1](https://github.com/splorp/kirby-alphabetise/releases/tag/0.1.1)
-+ Updated [Cachebuster](https://github.com/schnti/kirby3-cachebuster) plugin with <a href="https://github.com/schnti">Timo Schneider’s</a> Kirby 3 version
++ Updated [Cachebuster](https://github.com/schnti/kirby3-cachebuster) plugin with [Timo Schneider’s](https://github.com/schnti) Kirby 3 version
 + Updated [Kirby Meta Tags](https://github.com/pedroborges/kirby-meta-tags) plugin to version [2.1.0](https://github.com/pedroborges/kirby-meta-tags/releases/tag/v2.1.0)
 + Updated [Kirby Paperback Export](https://github.com/splorp/kirby-paperback-export) plugin to version [2.0.0](https://github.com/splorp/kirby-paperback-export/releases/tag/2.0.0)
 + Removed [Kirby GA](https://github.com/jenstornell/kirby-ga) plugin because Google
-+ Replaced [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) plugin with a <a href="https://getkirby.com/docs/cookbook/content/sitemap">built-in version</a>
++ Replaced [Kirby XML Sitemap](https://github.com/pedroborges/kirby-xml-sitemap) plugin with a [built-in version](https://getkirby.com/docs/cookbook/content/sitemap)
 
 ### 2.4.7
 
