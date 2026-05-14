@@ -28,6 +28,7 @@ Related:
 - /terms/newton-media-maker
 - /terms/newton-media-system
 - /terms/newton-movie-player
+- /terms/newton-slide-show
 
 ----
 

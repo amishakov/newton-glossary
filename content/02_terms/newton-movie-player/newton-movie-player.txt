@@ -31,6 +31,7 @@ Related:
 - /terms/newton-audio-player
 - /terms/newton-media-maker
 - /terms/newton-media-system
+- /terms/newton-slide-show
 - /terms/nmp
 
 ----

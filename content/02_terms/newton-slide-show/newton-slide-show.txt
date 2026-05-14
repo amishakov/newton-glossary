@@ -1,0 +1,46 @@
+Title: Newton Slide Show
+
+----
+
+Date: 14 May 2026
+
+----
+
+Text:
+
+A proof of concept (link: /terms/application text: application) developed by (link: /sources/lee-moon text: Lee Moon) that displays a series of images on a Newton device. 
+
+(image: /assets/images/newton-slide-show-2x.gif alt: Screenshot of Newton Slide Show displaying an image of Lee Moon width: 233)
+
+By default, Newton Slide Show automatically advanced through the images. However, the amount of time each image is displayed and a transition effect could be specified.
+
+Manually navigating back and forth through the images is accomplished by (link: /terms/tapping text: tapping) the (link: /terms/universal-scroll-arrows text: universal scroll arrows).
+
+Features from Newton Slide Show were were eventually integrated into (link: /terms/newton-movie-player text: Newton Movie Player), including the ability to add an audio track.
+
+Also referred to as (link: /terms/nmp text: NSS).
+
+----
+
+Resource:
+
+- [Newted: Newton Slide Show Demo](https://www.newted.org/resources/nss/)
+
+----
+
+Related:
+
+- /terms/newton-audio-player
+- /terms/newton-media-maker
+- /terms/newton-media-system
+- /terms/newton-movie-player
+- /terms/nss
+- /terms/palmedia-image-transfer
+- /terms/palmedia-media-transfer
+- /terms/palmedia-player
+
+----
+
+Source:
+
+- /sources/lee-moon

@@ -27,6 +27,7 @@ Related:
 - /terms/newton-audio-player
 - /terms/newton-media-system
 - /terms/newton-movie-player
+- /terms/newton-slide-show
 - /terms/nmm
 
 ----
