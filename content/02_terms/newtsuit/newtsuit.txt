@@ -1,0 +1,32 @@
+Title: newtSuit
+
+----
+
+Date: 15 May 2026
+
+----
+
+Text:
+
+A protective, neoprene case for (link: /terms/messagepad-2000 text: MessagePad 2000) and (link: /terms/messagepad-2100 text: MessagePad 2100) devices designed and manufactured by (link: /sources/marware text: MAR Software).
+
+----
+
+Resource:
+
+- [MAR Software: newtSuit Product Information](https://web.archive.org/web/19971010060101/http://www.marsoftware.com/ThenewtSuit.html)
+- [The Gadgeteer: newtSuit Review](https://the-gadgeteer.com/1998/02/21/newtsuit_review/)
+- [Newted: newtSuit Press Release](https://www.newted.org/resources/newtsuit.txt)
+
+
+----
+
+Related:
+
+- /terms/newt-boot
+
+----
+
+Source:
+
+- /sources/marware

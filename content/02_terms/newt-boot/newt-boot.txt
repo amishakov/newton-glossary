@@ -22,6 +22,7 @@ Resource:
 Related:
 
 - /terms/boot
+- /terms/newtsuit
 - /terms/tube-card-retainer
 
 ----

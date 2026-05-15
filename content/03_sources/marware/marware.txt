@@ -1,0 +1,20 @@
+Title: MAR Software
+
+----
+
+Date: 15 May 2026
+
+----
+
+Text:
+
+A software development company founded by Edward W. Martin in 1993, focusing on products to enhance the use of Newton devices. In addition to software, they also manufactured accessories such as the (link: /terms/newtsuit text: newtSuit).
+
+In December 1998, the company rebranded as MarWare and began providing products for other handheld platforms.
+
+----
+
+Resource:
+
+- [MAR Software Website](https://web.archive.org/web/19971010055602/http://www.marsoftware.com/)
+- [Press Release: MAR Software is becoming MarWare](https://web.archive.org/web/19991003053334/http://www.marsoftware.com/html/news.html)
