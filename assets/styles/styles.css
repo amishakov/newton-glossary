@@ -149,15 +149,20 @@ h4 {
 	margin-bottom: 20px;
 	}
 
-blockquote {
-	margin-bottom: 20px;
-	background: #EEE;
-	padding: 20px 10px 20px 30px;
-	border-left: 20px solid #CCC;
-	}
-
 p {
 	margin-bottom: 15px;
+	}
+
+blockquote p {
+	line-height: 2em;
+	text-indent: -.4em;
+	margin: 0;
+	}
+
+blockquote {
+	margin-bottom: 30px;
+	padding: 20px 30px;
+	border: 1px solid #CCC;
 	}
 
 code {
