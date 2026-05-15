@@ -1,0 +1,40 @@
+Title: NewtUSB
+
+----
+
+Date: 15 May 2026
+
+----
+
+Text:
+
+A hardware accessory designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that converted a standard (link: /terms/usb text: USB) port to a (link: /terms/mini-din text: Mini-DIN) port for connecting to a Newton device. An additional (link: /terms/dongle text: dongle) allowed the NewtUSB adapter to charge and (link: /terms/synchronize text: synchronize) a device through the (link: /terms/newton-interconnect text: Newton InterConnect) port.
+
+----
+
+Resource:
+
+- [Green is Better: NewtUSB](https://web.archive.org/web/20060125152959/http://homepage.mac.com/adriano.angelillis/PhotoAlbum20.html)
+- [Green is Better: NewtUSB Accessory](https://web.archive.org/web/20060125153039/http://homepage.mac.com/adriano.angelillis/PhotoAlbum23.html)
+
+----
+
+Related:
+
+- /terms/communication-port
+- /terms/dongle
+- /terms/multifunction-interconnect-adapter
+- /terms/newtac
+- /terms/newtcom
+- /terms/newton-interconnect
+- /terms/newton-serial-adapter
+- /terms/notwen
+- /terms/power-port
+- /terms/usb
+- /terms/usb-001
+
+----
+
+Source:
+
+- /sources/adriano-angelillis

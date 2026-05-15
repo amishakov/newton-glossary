@@ -21,6 +21,7 @@ Related:
 - /terms/charging-cart
 - /terms/newtac
 - /terms/newtcom
+- /terms/newtusb
 - /terms/rhythm-method
 - /terms/wall-wart
 

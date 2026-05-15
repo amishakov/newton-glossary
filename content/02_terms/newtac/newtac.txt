@@ -21,6 +21,7 @@ Resource:
 Related:
 
 - /terms/dongle
+- /terms/newtusb
 - /terms/notwen
 - /terms/power-port
 - /terms/usb

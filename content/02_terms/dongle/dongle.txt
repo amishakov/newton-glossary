@@ -28,3 +28,4 @@ Related:
 - /terms/newton-interconnect
 - /terms/newton-serial-adapter
 - /terms/newtpod
+- /terms/newtusb

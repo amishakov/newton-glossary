@@ -40,6 +40,7 @@ Related:
 - /terms/newtcom
 - /terms/newtpod
 - /terms/newton-serial-adapter
+- /terms/newtusb
 - /terms/nic
 - /terms/ser-001
 - /terms/usb
