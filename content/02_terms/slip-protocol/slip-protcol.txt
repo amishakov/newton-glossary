@@ -29,6 +29,7 @@ Related:
 
 - /terms/dhcp
 - /terms/dns
+- /terms/ftp
 - /terms/http
 - /terms/imap
 - /terms/internet-setup

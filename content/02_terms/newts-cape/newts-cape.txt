@@ -26,6 +26,7 @@ Related:
 - /terms/hemlock
 - /terms/http
 - /terms/launchpls
+- /terms/lunasuite
 - /terms/nethopper
 - /terms/newton-book
 - /terms/newton-internet-enabler

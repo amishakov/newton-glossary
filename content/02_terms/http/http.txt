@@ -16,13 +16,19 @@ A communications (link: /terms/protocol text: protocol) used to transfer data ov
 
 Related:
 
+- /terms/courier
 - /terms/dhcp
 - /terms/dns
+- /terms/ftp
 - /terms/imap
 - /terms/internet-setup
 - /terms/ip
+- /terms/lunasuite
+- /terms/nethopper
 - /terms/newton-internet-enabler
 - /terms/newton-internet-library
+- /terms/newts-cape
+- /terms/pocketweb
 - /terms/pop
 - /terms/ppp
 - /terms/protocol

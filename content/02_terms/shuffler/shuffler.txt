@@ -31,6 +31,7 @@ Related:
 - /terms/courier
 - /terms/http
 - /terms/ink-spot
+- /terms/lunasuite
 - /terms/nethopper
 - /terms/newts-cape
 - /terms/newtwap

@@ -1,0 +1,41 @@
+Title: FTP
+
+----
+
+Date: 15 May 2026
+
+----
+
+Text:
+
+File Transfer Protocol
+
+A (link: /terms/protocol text: protocol) used to transfer files over a network between a device using an (link: /terms/application text: application) such as (link: /terms/newtftp text: NewtFTP) and a server.
+
+----
+
+Related:
+
+- /terms/dhcp
+- /terms/dns
+- /terms/http
+- /terms/imap
+- /terms/internet-setup
+- /terms/ip
+- /terms/lunasuite
+- /terms/newtftp
+- /terms/newton-internet-enabler
+- /terms/newton-internet-library
+- /terms/pop
+- /terms/ppp
+- /terms/protocol
+- /terms/slip-protocol
+- /terms/smtp
+- /terms/tcp
+- /terms/tcp-ip
+
+----
+
+Source:
+
+- /sources/techencyclopedia
