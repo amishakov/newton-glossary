@@ -8,7 +8,7 @@ Date: 03 April 2026
 
 Text:
 
-A software developer and hardware tinkerer based in Barcelona, Spain. Padilla has actively developed several (link: /terms/package text: packages) for the Newton platform, including plugins to extend the functionality of the (link: /terms/nethopper text: NetHopper) web browser and a (link: /terms/device-driver text: device driver) that allows Newton device to use a (link: /terms/stowaway text: Stowaway) keyboard.
+A software developer and hardware tinkerer based in Barcelona, Padilla has developed several (link: /terms/package text: packages) for the Newton platform, including plugins to extend the functionality of the (link: /terms/nethopper text: NetHopper) web browser and a (link: /terms/device-driver text: device driver) that allows Newton device to use a (link: /terms/stowaway text: Stowaway) keyboard.
 
 ----
 
