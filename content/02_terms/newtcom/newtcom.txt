@@ -31,6 +31,8 @@ Related:
 - /terms/newton-interconnect
 - /terms/multifunction-interconnect-adapter
 - /terms/newton-serial-adapter
+- /terms/newtsplit
+- /terms/newtusb
 - /terms/notwen
 - /terms/power-port
 - /terms/usb

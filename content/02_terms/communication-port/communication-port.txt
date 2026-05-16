@@ -30,6 +30,7 @@ Related:
 - /terms/newtcom
 - /terms/newton-interconnect
 - /terms/newton-serial-adapter
+- /terms/newtsplit
 - /terms/newtusb
 - /terms/ser-001
 - /terms/usb

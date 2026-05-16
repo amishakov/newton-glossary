@@ -41,6 +41,8 @@ Related:
 - /terms/newtlight-8m
 - /terms/newtlight-9
 - /terms/newtlight-9m
+- /terms/newtsplit
+- /terms/newtusb
 - /terms/notwen
 - /terms/usb
 

@@ -1,0 +1,40 @@
+Title: NewtSplit
+
+----
+
+Date: 16 May 2026
+
+----
+
+Text:
+
+A hardware accessory designed by (link: /sources/adriano-angelillis text: Adriano Angelillis) that provided both a (link: /terms/db-9 text: DB-9) serial adapter for connecting to a Windows computer and a powered (link: /terms/usb text: USB) port using the serial port on a Newton device.
+
+The USB port was embedded in a magnetic base, similar to certain models of the (link: /terms/newtlight text: NewtLight) accessory.
+
+An optional “High Speed Serial Converter” that utilized an (link: /terms/ftdi text: FTDI) chip to provide faster data transfer over a USB connection between a Newton device and a Mac OS or Windows computer.
+
+----
+
+Resource:
+
+- [NewtonTalk: [ANN] NewtSplit available](https://newtontalk.net/archive/newtontalk/2005-September/0173.html)
+- [Green is Better: NewtSplit](https://web.archive.org/web/20060125151606/http://homepage.mac.com/adriano.angelillis/PhotoAlbum5.html)
+
+----
+
+Related:
+
+- /terms/communication-port
+- /terms/newtcom
+- /terms/newtk
+- /terms/newtlight
+- /terms/newtusb
+- /terms/notwen
+- /terms/usb
+
+----
+
+Source:
+
+- /sources/adriano-angelillis

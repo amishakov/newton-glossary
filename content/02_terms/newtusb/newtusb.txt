@@ -28,6 +28,8 @@ Related:
 - /terms/newtcom
 - /terms/newton-interconnect
 - /terms/newton-serial-adapter
+- /terms/newtsplit
+- /terms/newtusb
 - /terms/notwen
 - /terms/power-port
 - /terms/usb

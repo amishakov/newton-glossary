@@ -28,6 +28,8 @@ Related:
 - /terms/newtlight
 - /terms/newton-keyboard
 - /terms/newton-keyboard-enabler
+- /terms/newtsplit
+- /terms/newtusb
 - /terms/newtway
 - /terms/notwen
 - /terms/stowaway

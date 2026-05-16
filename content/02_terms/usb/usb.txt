@@ -25,6 +25,7 @@ Related:
 - /terms/newtac
 - /terms/newtcom
 - /terms/newton-interconnect
+- /terms/newtsplit
 - /terms/newtusb
 - /terms/rs-232
 - /terms/rs-422
