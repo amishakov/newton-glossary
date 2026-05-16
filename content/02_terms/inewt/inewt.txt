@@ -22,7 +22,7 @@ Resource:
 
 - [Flickr: Charles Mangin’s iNewt](https://www.flickr.com/photos/charles_mangin/albums/72157624835706634/)
 - [Newton Traveler: The Great White Newt](https://web.archive.org/web/20030417160325/http://www.newtontraveler.com/white.html)
-- [NewtonTalk: The Apple Tablet (aka iNewt) saga](https://www.newtontalk.net/archive/newtontalk/2009-November/038849.html)
+- [NewtonTalk: The Apple Tablet (aka iNewt) saga](https://newtontalk.net/archive/newtontalk/2009-November/038849.html)
 - [The Register: Apple pen-tablet plan revives Newtonian handwriting](https://www.theregister.com/2009/11/13/apple_pen_tablet_patent_filing/)
 
 ----

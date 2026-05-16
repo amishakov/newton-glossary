@@ -18,7 +18,7 @@ NewtCOM is also the name of an unspecified prototype that was being developed by
 
 Resource:
 
-- [NewtonTalk: NewtCOM Dongle: Weekend Update](http://newtontalk.net/archive/newtontalk/2025-June/003135.html)
+- [NewtonTalk: NewtCOM Dongle: Weekend Update](https://newtontalk.net/archive/newtontalk/2025-June/003135.html)
 - [GitHub: NewtCOM Dongle](https://github.com/MatthiasWM/newt_dongle/)
 - [Notwen: Labo](https://web.archive.org/web/20081009210224/http://www.notwen.com/labo/)
 
