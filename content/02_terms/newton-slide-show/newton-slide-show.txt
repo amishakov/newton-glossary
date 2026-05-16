@@ -8,7 +8,7 @@ Date: 14 May 2026
 
 Text:
 
-A proof of concept (link: /terms/application text: application) developed by (link: /sources/lee-moon text: Lee Moon) that displays a series of images on a Newton device. 
+A proof of concept (link: /terms/application text: application) developed by (link: /sources/lee-moon text: Lee Moon) that displays a series of images on a Newton device.
 
 (image: /assets/images/newton-slide-show-2x.gif alt: Screenshot of Newton Slide Show displaying an image of Lee Moon width: 233)
 

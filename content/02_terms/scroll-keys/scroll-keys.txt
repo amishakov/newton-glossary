@@ -16,9 +16,6 @@ Pressing a scroll key performs the same action as tapping a (link: /terms/scroll
 
 Related:
 
-
-
-
 - /terms/accent-key
 - /terms/arrow-keys
 - /terms/auto-repeat
