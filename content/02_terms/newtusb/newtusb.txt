@@ -14,6 +14,7 @@ A hardware accessory designed by (link: /sources/adriano-angelillis text: Adrian
 
 Resource:
 
+- [NewtonTalk: NewtUSB (prototype)](https://newtontalk.net/archive/newtontalk/2005-November/0045.html)
 - [Green is Better: NewtUSB](https://web.archive.org/web/20060125152959/http://homepage.mac.com/adriano.angelillis/PhotoAlbum20.html)
 - [Green is Better: NewtUSB Accessory](https://web.archive.org/web/20060125153039/http://homepage.mac.com/adriano.angelillis/PhotoAlbum23.html)
 
